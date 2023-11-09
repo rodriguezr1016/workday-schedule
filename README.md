@@ -5,6 +5,7 @@ A simple calendar application that allows the user to save events, utilizing the
 ## Repo-Link: 
 
 https://github.com/rodriguezr1016/workday-schedule
+
 ## Deployment-Link:
 
 https://rodriguezr1016.github.io/workday-schedule/
